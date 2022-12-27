@@ -3,6 +3,8 @@
 
 i will create few scipts to practice my skills.
 
+mark with :) every complete task. (the script has to work perfectly)
+
 
 1.   Create a program that calculates the average of a list of numbers.
 2.   Create a program that converts a given temperature in degrees Celsius to degrees Fahrenheit.
