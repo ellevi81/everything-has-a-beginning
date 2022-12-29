@@ -7,16 +7,16 @@ numeros = []
 #funcion de 5 vueltitas
 
 for i in range (5):
-	valor=int(input("Ingrese un numero entero: "))
+	valor=int(input("Enter an integer: "))
 	numeros.append(valor)
 #Mostramos la lista
 
-print ("Los numeros son: " + str(numeros))
+print ("The numbers are: " + str(numeros))
 
 #calculamos el promedio
 
 suma = sum(numeros)
 
-print ("La suma es: " + str(suma))
+print ("The sum is: " + str(suma))
 
-print ("El promedio es: " + str(suma/5))
+print ("The average is:: " + str(suma/5))
