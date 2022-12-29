@@ -19,4 +19,4 @@ suma = sum(numeros)
 
 print ("La suma es: " + str(suma))
 
-print ("El promedio es: " + str(suma*5))
+print ("El promedio es: " + str(suma/5))
